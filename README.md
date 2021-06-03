@@ -1,4 +1,4 @@
-# Leaf-Disease-Detection-and-Health-Grading-System
+# Leaf Disease Detection and Health Grading System
 
 Objective:
 
